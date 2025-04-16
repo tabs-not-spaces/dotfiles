@@ -1,6 +1,6 @@
 theme = catppuccin-mocha
 
-font-family = "Cascadia Code NF"
+font-family = "Cascadia Code PL"
 font-size = 14
 font-feature = +liga
 font-thicken = true
@@ -11,3 +11,5 @@ mouse-hide-while-typing = true
 
 background-blur = true
 background-opacity = 0.9
+
+keybind = cmd+a=new_tab
